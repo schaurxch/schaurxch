@@ -1,4 +1,4 @@
-# Pedro Schaurich Maia
+# 🧑‍💻 Pedro Schaurich Maia
 
 **`Estudante do Curso de Ciências da Computação FECAP`**
 
@@ -23,9 +23,9 @@ Me chamo Pedro Schaurich Maia, tenho 20 anos e sou natural de Curitiba mas moro 
 
 ---
 
-### Linguagens e Tecnologia
+### 💻 Linguagens e Tecnologia
 
-<div>
+
 <img 
     align="left" 
     alt="HTML"
@@ -100,19 +100,19 @@ Me chamo Pedro Schaurich Maia, tenho 20 anos e sou natural de Curitiba mas moro 
 
 <img 
     align="left" 
-    alt="MySQL"
-    title="MySQL" 
+    alt="SQL"
+    title="SQL" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
-</div>
+
 
 <br/>
 <br/>
 
 
-### Estatísticas
+### 📊 Estatísticas
 
 <p>
   <img 
