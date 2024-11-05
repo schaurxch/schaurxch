@@ -2,7 +2,7 @@
 
 **`Estudante do Curso de Ciências da Computação FECAP`**
 
-Me chamo Pedro Schaurich Maia, tenho 20 anos e sou natural de Curitiba mas moro em São Paulo desde meus 5 meses de idade. Concluí o ensino médio no Colégio Global e atualmente estou cursando Ciência da Computação na FECAP. Desde pequeno gosto de mexer com tecnologia e estou sempre aberto a aprender novas tecnologias e viver novas experiências nessa área.
+Me chamo Pedro, tenho 20 anos e sou natural de Curitiba mas moro em São Paulo desde meus 5 meses de idade. Concluí o ensino médio no Colégio Global e atualmente estou cursando Ciência da Computação na FECAP. Desde pequeno gosto de mexer com tecnologia e estou sempre aberto a aprender novas tecnologias e viver novas experiências nessa área.
 
 <p align="left">
 <a href="https://github.com/schaurxch?tab=repositories&sort=stargazers">
