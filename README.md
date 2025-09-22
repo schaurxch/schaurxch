@@ -2,8 +2,9 @@
 
 **`Estudante do Curso de Ciências da Computação FECAP`**
 
-Me chamo Pedro, tenho 20 anos e sou natural de Curitiba mas moro em São Paulo desde pequeno. Concluí o ensino médio no Colégio Global e atualmente estou cursando 4º Semestre da Graduação em Ciência da Computação na FECAP. Desde pequeno gosto de mexer com tecnologia e estou sempre aberto a aprender novas tecnologias e viver novas experiências nessa área.
-
+Me chamo Pedro, tenho 20 anos e sou natural de Curitiba mas moro em São Paulo desde pequeno. <br/>
+Atualmente estou cursando 4º Semestre da Graduação em Ciência da Computação na FECAP. <br/>
+Desde pequeno gosto de mexer com tecnologia e estou sempre aberto a aprender novas tecnologias e viver novas experiências nessa área.
 
 
 ---
